@@ -1,0 +1,16 @@
+{
+  "name": "backend-course",
+  "version": "1.0.0",
+  "description": "complete backend course",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Ritam",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
